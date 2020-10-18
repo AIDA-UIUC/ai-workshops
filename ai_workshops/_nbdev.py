@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"data": "01_image_classification.ipynb"}
 
-modules = []
+modules = ["image_classification.py"]
 
 doc_url = "https://aida-uiuc.github.io/ai_workshops/"
 
