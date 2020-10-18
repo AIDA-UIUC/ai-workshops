@@ -59,5 +59,8 @@ defaults:
 sidebars:
 - home_sidebar
 
+default_badges:
+  colab: true
+
 theme: jekyll-theme-cayman
 baseurl: /ai_workshops/
