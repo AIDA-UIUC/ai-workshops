@@ -1,0 +1,9 @@
+all:
+	nbdev_build_lib
+	nbdev_build_docs
+docs:
+	nbdev_build_docs
+lib:
+	nbdev_build_lib
+test:
+	nbdev_test_nbs
