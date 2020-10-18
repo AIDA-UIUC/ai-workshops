@@ -1,7 +1,7 @@
-repository: aida-uiuc/ai-workshops
+repository: aida-uiuc/ai-_workshops
 output: web
-topnav_title: ai-workshops
-site_title: ai-workshops
+topnav_title: AI Workshops
+site_title: SIGAIDA AI Workshops
 company_name: SIG AIDA UIUC
 description: Weekly deep learning workshops for SIG AIDA at UIUC
 # Set to false to disable KaTeX math

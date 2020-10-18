@@ -2,7 +2,7 @@ topnav:
 - title: Topnav
   items:
     - title: github
-      external_url: https://github.com/aida-uiuc/ai-workshops/tree/master/
+      external_url: https://github.com/aida-uiuc/ai_workshops/tree/master/
 
 #Topnav dropdowns
 topnav_dropdowns:
